@@ -1,0 +1,14 @@
+{
+  "name": "reduce_adv",
+  "version": "1.0.0",
+  "description": "advanced reduce example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Kneafsey",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
