@@ -1,0 +1,14 @@
+{
+  "name": "currying",
+  "version": "1.0.0",
+  "description": "currying example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JFK",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
